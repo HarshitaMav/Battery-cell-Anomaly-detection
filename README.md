@@ -2,11 +2,6 @@
 
 **Isolation Forest vs LSTM Autoencoder on simulated Tesla 4680 cell sensor data**
 
-> Built by Harshita Mav · MS Computer Science, Syracuse University  
-> Targeting: Tesla Cell Manufacturing Internship, Fall 2026
-
----
-
 ## Overview
 
 This project detects anomalies in battery cell manufacturing sensor data using two complementary ML approaches. It simulates a 4680 cell production line with 4 key sensors and compares unsupervised anomaly detection models against labeled ground truth.
